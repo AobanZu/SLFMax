@@ -1,1 +1,1 @@
-##Smoothed Linear Function Softmax##
+###### Smoothed Linear Function Softmax
